@@ -1,5 +1,7 @@
 # Full Stack Holy Grail
 
+To see the site, please visit: https://nmc1313.github.io/fullStackHolyGrail/
+
 MIT xPro Full Stack Holy Grail Style Website
 
 Built using: 
